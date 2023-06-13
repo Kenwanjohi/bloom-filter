@@ -1,0 +1,20 @@
+{
+  "name": "bloom-filter",
+  "version": "1.0.0",
+  "description": "A Javascript implementation of Bloom filter- A probabilistic data structure to check membership",
+  "main": "src/bloom-filter.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bloom filter",
+    "bit array",
+    "murmurhash"
+  ],
+  "author": "Wanjohi Ken",
+  "license": "ISC",
+  "dependencies": {
+    "murmurhash": "^2.0.1"
+  }
+}
